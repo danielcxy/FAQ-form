@@ -41,7 +41,7 @@ body {
 .FAQ {
     text-align: left;
     font-size: 30px;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: 'Libre Franklin', sans-serif;
 }
 .question1 {
     text-align: left;
@@ -49,7 +49,7 @@ body {
 .information1 {
     border-bottom-color: hsl(240, 5%, 91%);
     font-size: 15px;
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    font-family: 'Libre Franklin', sans-serif; 
     border-top: none;
     border-left: none;
     border-right: none;
@@ -64,9 +64,10 @@ body {
 }
 .hiddeninformation1 {
     display: none;
-    font-size: 15px;
+    font-size: 12px;
     border-left: 50px;
     color: hsl(237, 12%, 33%);
+    font-family: 'Libre Franklin', sans-serif;
 }
 .question2 {
     text-align: left;
@@ -74,7 +75,7 @@ body {
 .information2 {
     border-bottom-color: hsl(240, 5%, 91%);
     font-size: 15px; 
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'Libre Franklin', sans-serif;
     border-top: none;
     border-left: none;
     border-right: none;
@@ -91,11 +92,13 @@ body {
     display: none;
     text-align: left;
     color: hsl(237, 12%, 33%);
+    font-family: 'Libre Franklin', sans-serif;
+    font-size: 12px;
 }
 .information3 {
     border-bottom-color: hsl(240, 5%, 91%);
     font-size: 15px; 
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'Libre Franklin', sans-serif;
     border-top: none;
     border-left: none;
     border-right: none;
@@ -112,11 +115,13 @@ body {
     display: none;
     text-align: left;
     color:hsl(237, 12%, 33%);
+    font-family: 'Libre Franklin', sans-serif;
+    font-size: 12px;
 }
 .information4 {
     border-bottom-color: hsl(240, 5%, 91%);
     font-size: 15px; 
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'Libre Franklin', sans-serif;
     border-top: none;
     border-left: none;
     border-right: none;
@@ -133,11 +138,13 @@ body {
     display: none;
     text-align: left;
     color: hsl(237, 12%, 33%);
+    font-family: 'Libre Franklin', sans-serif;
+    font-size: 12px;
 }
 .information5 {
     border-bottom-color: hsl(240, 5%, 91%);
     font-size: 15px; 
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'Libre Franklin', sans-serif;
     border-top: none;
     border-left: none;
     border-right: none;
@@ -154,6 +161,8 @@ body {
     display: none;
     text-align: left;
     color:hsl(237, 12%, 33%);
+    font-family: 'Libre Franklin', sans-serif;
+    font-size: 12px;
 }
 footer {
     font-size: 11px; text-align: center; 
